@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-20 15:17:13</sys_created_on>
+        <sys_id>ac879cce1b1aed106c1036ef034bcb49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-20 15:17:13</sys_updated_on>
+        <vendor_app display_value="Supplier Collaboration Portal">1a96d3851bab6010593876a61a4bcb01</vendor_app>
+        <vendor_app_version>1.5.2</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>glide-tokyo-07-08-2022__patch7-02-16-2023_02-28-2023_1844.zip</war_version>
+    </sys_app_customization>
+</record_update>
